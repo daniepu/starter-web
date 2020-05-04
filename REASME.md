@@ -10,5 +10,5 @@ a diffrents between both headers
 ## How To Contribute
 what is wrong
 
-##
-modify for the seconed time
+##Copyright
+adding copyrights
